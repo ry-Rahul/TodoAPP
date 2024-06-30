@@ -13,7 +13,7 @@
   
   .task span {
     flex-grow: 1;
-    overflow: scroll;
+    background-color: white;
   }
   
   .task-buttons {
